@@ -1,3 +1,6 @@
 # NLP-Chat-Analysis
 
 Nowadays, WhatsApp (WA) has become a very important social media in communication and e-learning activities. This is happened because of its various features and functions, such as sending messages, sharing files, videos, sounds, and even sharing location in real-time. This study aims to analyze the content of the whatsapp chat group of the education financing management course in 2020 at Graduate School of Semarang State University. In addition, this study also has another goal that is to explore WA usage by group members. Type of the research is a descriptive quantitative research, where analysis was done by using the Python programming language. The results show that in 1 semester, there were 14 group members, 606 messages, 44350 words, 7 website links, and 24 emoji characters with a total frequency of 122. The word most often used by group users was "nggih pak". This word is a Javanese word that usually use for agreeing with something. Based on the results, it also can be identified who is the most active group member, the average messages sent by each group member, and when the group's most active day. Through content analysis, some important informations that support the e-learning process can be obtained.
+
+Publication links:
+http://journal.pwmjateng.com/index.php/jle/article/view/32
